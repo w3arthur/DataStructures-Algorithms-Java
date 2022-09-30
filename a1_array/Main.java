@@ -1,4 +1,4 @@
-package a1_array1;
+package a1_array;
 import java.util.ArrayList;
 
 //lookup by index o(1)

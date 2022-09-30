@@ -1,4 +1,4 @@
-package a1_array1;
+package a1_array;
 
 public class Array {	//dynamic array
 	private int[] items;
